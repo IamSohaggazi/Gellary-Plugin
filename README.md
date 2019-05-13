@@ -14,21 +14,21 @@ ex: <link rel="stylesheet" href="css/style.css" />
 
 
 # in html 
-add a dev call with <div id="gallery"> 
+  add a dev call with <div id="gallery"> 
   and use image tag 
   
   ex: 
-  <img src="https://picsum.photos/600/450?image=776" data-tags="Blog" alt="Alt 1" />
+  <img src="image1.jpg" data-tags="Blog" alt="Alt 1" />
   
   # for add filter button use 
   
-  data-tag="button name" 
+ <img data-tag="button name" />
   
-  #THANKS FOR DOWNLOAD MY AWESOME PLUGIN
+  # THANKS FOR DOWNLOAD MY AWESOME PLUGIN
   
-  #YOU CAN BUY THIS PLUGIN FROM CODECAYNON 
+  # YOU CAN BUY THIS PLUGIN FROM CODECAYNON 
   
-  #JQUERY VERSION NEW IN LIVE
-  #WORDPRESS VERSION COMING SOON
+  # JQUERY VERSION NEW IN LIVE
+  # WORDPRESS VERSION COMING SOON
   
-  #MAHMUD SOHAG GAZI
+  # MAHMUD SOHAG GAZI
